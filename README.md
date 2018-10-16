@@ -1,2 +1,2 @@
-# ajaxGet
-ajaxGet
+# ajaxGet ajaxPost
+ajaxGet ajaxPost
